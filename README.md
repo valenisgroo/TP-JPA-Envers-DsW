@@ -7,10 +7,10 @@ El objetivo del TP4 es aprender a utilizar Hibernate Envers para registrar el hi
 ## 📂 Descripción del Proyecto
 En este proyecto:
 
-Persistencia de Entidades con Auditoría: Se sigue utilizando el diagrama de clases proporcionado por la cátedra, agregando la funcionalidad de auditoría mediante Hibernate Envers.
-Auditoría de Cambios: Con Envers, se registran los cambios realizados en las entidades a lo largo del tiempo, incluyendo versiones anteriores.
-Lombok: Continúa la integración de Lombok para la generación automática de métodos como constructores, getters y setters, simplificando el código.
-Base de Datos H2: Para la persistencia de datos y las auditorías, se utiliza la base de datos embebida H2.
+**Persistencia de Entidades con Auditoría:** Se sigue utilizando el diagrama de clases proporcionado por la cátedra, agregando la funcionalidad de auditoría mediante Hibernate Envers.
+**Auditoría de Cambios:** Con Envers, se registran los cambios realizados en las entidades a lo largo del tiempo, incluyendo versiones anteriores.
+**Lombok:** Continúa la integración de Lombok para la generación automática de métodos como constructores, getters y setters, simplificando el código.
+**Base de Datos H2:** Para la persistencia de datos y las auditorías, se utiliza la base de datos embebida H2.
 ## ✅ Resolución
 Este repositorio contiene la implementación completa del TP4. Para acceder al código:
 
